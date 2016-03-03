@@ -1,0 +1,10 @@
+{
+  "name": "juicerify",
+  "description": "a tpl of juicer transform for broweserify",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "dependencies": {
+    "juicer": "^0.6.11",
+    "through2": "^2.0.1"
+  }
+}
