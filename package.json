@@ -1,7 +1,14 @@
 {
   "name": "juicerify",
   "description": "a tpl of juicer transform for broweserify",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "author" : "imvvk<soapkk@163.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/imvvk/juicerify",
+  "repository" : {
+	"type" : "git",
+	"url" : "https://github.com/imvvk/juicerify"
+  },
   "main": "./index.js",
   "dependencies": {
     "juicer": "^0.6.11",
